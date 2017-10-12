@@ -8,4 +8,7 @@ get the blue and signs region. [MORE DETAILS WILL COME]
 A HOG-SVM based claasification will be used. For detecting HOG features and MSER vl_feat library is used. The binary package can be 
 downloaded from here - http://www.vlfeat.org/install-matlab.html. Make sure to follow the one-time setup on that page. 
 
+<p align="center">
+  <img src="https://github.com/rishabh1b/RoboticsPerception/blob/master/gifs/tsr.gif?raw=true" alt="Homography and Pose Estimation"/>
+</p>
 
